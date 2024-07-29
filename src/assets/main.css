@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --card1bg: #FFC107;
+  --card2bg: #17A2B8;
+  --bannerbg: #2248e2;;
+}
