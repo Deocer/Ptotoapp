@@ -1,6 +1,6 @@
 <template>
 
-<div class="bg-cover bg-center relative" style="background-image: url('src/assets/bg-leaves.svg');">
+<div class="bg-cover bg-center relative" style="background-image: url('https://raw.githubusercontent.com/Deocer/Ptotoapp/main/src/assets/bg-leaves.svg');">
 <mainNav />
 <mainJumbotron />
 </div>

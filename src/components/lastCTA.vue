@@ -1,6 +1,6 @@
 <template>
 
-<div class="text-black py-24" style="background-image: url('src/assets/bg-decals3.svg'); background-position: right bottom; background-repeat: no-repeat">
+<div class="text-black py-24" style="background-image: url('https://raw.githubusercontent.com/Deocer/Ptotoapp/main/src/assets/bg-decals3.svg'); background-position: right bottom; background-repeat: no-repeat">
 <div>
   <div class="max-w-4xl mx-auto text-center">
     <h2 class="text-6xl font-thin mb-4">Last Call to Action</h2>
